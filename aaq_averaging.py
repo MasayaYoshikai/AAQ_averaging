@@ -289,7 +289,7 @@ def fig_param(var_id):
 
     return bin_data, x_lim, x_ticks, xlabel
 
-# Make a plots
+# Make plots
 plt.close('all')
 if fig_flag == 1:
     # Make plots in a seperate window
